@@ -1,4 +1,4 @@
 vibguz
 ======
 
-just a testing repo.
+Just a testing repo.
